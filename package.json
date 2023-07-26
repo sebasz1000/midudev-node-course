@@ -1,0 +1,33 @@
+{
+  "name": "midudev-node-course",
+  "version": "1.0.0",
+  "description": "This is the first class of midudev node course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasz1000/midudev-node-course.git"
+  },
+  "keywords": [
+    "node",
+    "midudev",
+    "course"
+  ],
+  "author": "Juan Sebastián Zapata <Juan Sebastián Zapata O>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebasz1000/midudev-node-course/issues"
+  },
+  "homepage": "https://github.com/sebasz1000/midudev-node-course#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
